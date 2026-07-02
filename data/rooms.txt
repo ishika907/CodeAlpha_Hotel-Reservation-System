@@ -1,0 +1,9 @@
+RM-101|101|STANDARD|89.99|2|Wi-Fi;TV;Air Conditioning|Cozy standard room.
+RM-102|102|STANDARD|89.99|2|Wi-Fi;TV;Air Conditioning|Comfortable standard room.
+RM-103|103|STANDARD|94.99|3|Wi-Fi;TV;Mini Fridge|Standard room with extra space.
+RM-201|201|DELUXE|149.99|2|Wi-Fi;Smart TV;Mini Bar;Balcony|Deluxe room with balcony.
+RM-202|202|DELUXE|159.99|3|Wi-Fi;Smart TV;Mini Bar|Spacious deluxe room.
+RM-203|203|DELUXE|169.99|2|Wi-Fi;Smart TV;Ocean View|Premium deluxe room.
+RM-301|301|SUITE|249.99|4|Wi-Fi;Living Area;Jacuzzi|Executive suite.
+RM-302|302|SUITE|299.99|4|Wi-Fi;Kitchenette;Jacuzzi|Luxury suite.
+RM-303|303|SUITE|349.99|6|Wi-Fi;2 Bedrooms;Panoramic View|Presidential suite.
