@@ -10,6 +10,7 @@ Cancel reservation — frees dates + auto refund
 View all rooms — grouped by Standard / Deluxe / Suite
 Admin view — list all reservations
 
+'''text
 Hotel Reservation System/
 ├── compile.bat              # Compile all Java files
 ├── run.bat                  # Run the application
@@ -37,6 +38,7 @@ Hotel Reservation System/
     ├── bookings.txt
     ├── payments.txt
     └── availability.txt
+'''
 
     Java Concepts Used
 Concept	Where
