@@ -11,22 +11,22 @@ The Hotel Reservation System is a Java-based console application developed using
 6. Admin view — list all reservations
 
 # Java Concepts Used
-. Concept	Where2.Classes & Objects
-. Room, Guest, Reservation, Payment
-. Encapsulation
-. Private fields with getters/setters
-. Enums
-. RoomCategory, ReservationStatus, PaymentStatus
-. Interface
-. DataStore implemented by FileStorage
-. Collections
-. ArrayList, HashMap, List, Map
-. File I/O
-. BufferedReader, BufferedWriter, FileReader, FileWriter
-. Exception Handling
-. Input validation, IllegalArgumentException
-. Java 8 Time API
-. LocalDate, LocalDateTime
+1. Concept	Where2.Classes & Objects
+2. Room, Guest, Reservation, Payment
+3. Encapsulation
+4. Private fields with getters/setters
+5. Enums
+6. RoomCategory, ReservationStatus, PaymentStatus
+7. Interface
+8. DataStore implemented by FileStorage
+9. Collections
+10. ArrayList, HashMap, List, Map
+11. File I/O
+12. BufferedReader, BufferedWriter, FileReader, FileWriter
+13. Exception Handling
+14. Input validation, IllegalArgumentException
+15. Java 8 Time API
+16. LocalDate, LocalDateTime
 
 # How to Run
 1. Clone the repository.
