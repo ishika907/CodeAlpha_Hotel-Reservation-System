@@ -3,31 +3,30 @@
 The Hotel Reservation System is a Java-based console application developed using Object-Oriented Programming (OOP) principles. The system allows users to search --available rooms, make reservations, cancel bookings, simulate payments, and view booking details.
 
 # Features:
-Search rooms — by category, price, capacity, dates
-Book a room — guest info + payment simulation
-View booking details — by reservation ID or email
-Cancel reservation — frees dates + auto refund
-View all rooms — grouped by Standard / Deluxe / Suite
-Admin view — list all reservations
+1.Search rooms — by category, price, capacity, dates
+2.Book a room — guest info + payment simulation
+3.View booking details — by reservation ID or email
+4.Cancel reservation — frees dates + auto refund
+5.View all rooms — grouped by Standard / Deluxe / Suite
+6.Admin view — list all reservations
 
 # Java Concepts Used
--Concept	Where
--Classes & Objects
--Room, Guest, Reservation, Payment
--Encapsulation
--Private fields with getters/setters
--Enums
--RoomCategory, ReservationStatus, PaymentStatus
--Interface
--DataStore implemented by FileStorage
--Collections
--ArrayList, HashMap, List, Map
--File I/O
--BufferedReader, BufferedWriter, FileReader, FileWriter
--Exception Handling
--Input validation, IllegalArgumentException
--Java 8 Time API
--LocalDate, LocalDateTime
+.Concept	Where2.Classes & Objects
+.Room, Guest, Reservation, Payment
+.Encapsulation
+.Private fields with getters/setters
+.Enums
+.RoomCategory, ReservationStatus, PaymentStatus
+.Interface
+.DataStore implemented by FileStorage
+.Collections
+.ArrayList, HashMap, List, Map
+.File I/O
+.BufferedReader, BufferedWriter, FileReader, FileWriter
+.Exception Handling
+.Input validation, IllegalArgumentException
+.Java 8 Time API
+.LocalDate, LocalDateTime
 
 # How to Run
 1. Clone the repository.
@@ -43,4 +42,4 @@ Admin view — list all reservations
   5. View All Rooms
   6. Manage Reservations (Admin)
   0. Exit
-Enter your choice:
+
